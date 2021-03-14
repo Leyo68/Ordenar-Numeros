@@ -54,7 +54,7 @@ El código descrito se muestra en la siguiente captura;
 ![imagen](https://user-images.githubusercontent.com/71055467/111060590-a3394400-8463-11eb-92d7-5c6f5fe7a650.png)
 
 
-### Ejecución del programa 3
+### Ejecución del programa
 
 
 Ya que hemos descrito el código fuente pasamos a la ejecución del programa, para ello lo primero que hacemos es correr dicho código y lo que se muestra es la ventana con todos los elementos que se han creado en el código, la evidencia se muestra en la siguiente imagen;
