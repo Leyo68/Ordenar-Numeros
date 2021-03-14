@@ -1,6 +1,6 @@
 # Ordena Numeros utilizando Hilos y el método de la Burbuja
 
-###Explicación De Código Fuente
+### Explicación De Código Fuente
 
 El programa que se explica a continuación implementa hilos que son fundamentales para que realice lo que se pide, mismo que a partir de datos que ingresa el usuario se imprime en una etiqueta y para posteriormente ser ordenado mediante el método de burbuja, en este ejercicio, el programa fue hecho en el entorno de programación (IDE) de NetBeans, asimismo para su compilación y ejecución se utilizó la interfaz que ya trae incorporado este programa.
 
@@ -54,7 +54,7 @@ El código descrito se muestra en la siguiente captura;
 ![imagen](https://user-images.githubusercontent.com/71055467/111060590-a3394400-8463-11eb-92d7-5c6f5fe7a650.png)
 
 
-###Ejecución del programa 3
+### Ejecución del programa 3
 
 
 Ya que hemos descrito el código fuente pasamos a la ejecución del programa, para ello lo primero que hacemos es correr dicho código y lo que se muestra es la ventana con todos los elementos que se han creado en el código, la evidencia se muestra en la siguiente imagen;
